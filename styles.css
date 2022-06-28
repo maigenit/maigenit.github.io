@@ -1,0 +1,12 @@
+.topimage {
+    border: 2px solid red;
+}
+#headerbgr {
+    background-image: url("/images/herbert-goetsch-ek6DlahL3Rk-unsplash.jpg");
+    border: red;
+}
+
+#navPic {
+    border: 5px outset pink;
+    /*border-color: red;*/
+}
